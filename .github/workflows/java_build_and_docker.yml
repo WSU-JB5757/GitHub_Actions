@@ -1,5 +1,6 @@
 name: Java Build and Docker Push
 # getting errors that I can't find a source for.
+# stackoverflow says it's a linux auto-correct feature in git
 
 on:
   push:
